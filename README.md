@@ -7,3 +7,5 @@
 |13/04/2026 | Árboles de Decisión y kNearestNeighbor |[AD Vs KNN](https://github.com/sphxisnot/Big-Data-2026/blob/main/Semana3_AD_kNN.ipynb) |
 |27/04/2026 | Métricas de Evaluación |[Evaluación de Modelos de ML](https://github.com/sphxisnot/Big-Data-2026/blob/main/Clase04_evaluacion_modelos_ML.ipynb) |
 |04/05/2026| Support Vector Machines| [SVM](https://github.com/sphxisnot/Big-Data-2026/blob/main/Clase05_SVM.ipynb)|
+|11/05/2026| Regresión| [Regresión I](https://github.com/sphxisnot/Big-Data-2026/blob/main/Clase_06_Regresio%CC%81n.ipynb)|
+|25/05/2026| Regularización | [Regresión II](https://github.com/sphxisnot/Big-Data-2026/blob/main/Semana07_Regularizacion.ipynb)|
